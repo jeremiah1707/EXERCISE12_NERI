@@ -1,0 +1,146 @@
+@font-face {
+    font-family: Rocks;
+    src: url(rocks.ttf);
+  }
+  
+h1{
+    font-family: Rocks;
+}
+body{
+    margin: 0;
+}
+.navbar-brand{
+    font-family: Rocks;
+}
+.nav-item{
+    font-family: Rocks;
+}
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    flex-direction: row-reverse;
+}
+
+.maps1 {
+    position: relative;
+    text-align: center;
+   
+}
+
+.maps {
+    position: relative;
+    text-align: center;
+    bottom: 15vh;
+    color: white;
+}
+#Cod{
+    position: relative;
+    right: 54vh;
+    bottom: 12vh;
+    font-size: 100px;
+    color: black;
+    
+}
+#about{
+    position: relative;
+    color: black;
+    right: 77vh;
+    bottom: 13vh;
+    font-weight: bolder;
+}
+
+#aboutcontent{
+    position: relative;
+    text-align: left;
+    color:black;
+    right: 27vh;
+    bottom: 12vh;
+}
+.play{
+    position: relative;
+    right: 22vh;
+    bottom: 14vh;
+    border-radius: 8px;
+}
+#mode1{
+    position: relative;
+    width: 67vh;
+    float: right;
+    bottom: 5vh;
+    right: -2vh;
+}
+#mode2{
+    position: relative;
+    width: 67vh;
+    float: left;
+    bottom: 3vh;
+    right: 0vh;
+}
+#text-1 p{
+    align-items: flex-end;  
+    right: 0vh;
+}
+
+#mode3{
+    position: relative;
+    width: 67vh;
+    float: right;
+    bottom: 5vh;
+    left:   2vh;
+}
+#footer{
+    position: relative;
+    width: 157vh;
+    height: 68vh;
+    right: 2vh;
+    bottom: 4vh;
+}
+#dl{
+    position:relative ;
+    left: 113vh;
+    bottom: 40vh;
+}
+
+#call{
+    position: relative;
+    left: 86vh;
+    bottom: 62vh;
+    font-size: 100px;
+}
+
+#modern{
+    position: relative;
+    left: 97vh;
+    bottom: 64vh;
+    font-size: 62px;
+}
+
+
+
+#Copyright{
+    width: 20vh;
+}
+#app{
+    color: white;
+    position: relative;
+    left: 139vh;
+    bottom: 66vh;
+    font-size: 13vh;
+}
+#google{
+    color: white;
+    position: relative;
+    bottom: 66vh;
+    left: 103vh;
+    font-size: 12vh;
+}
+.imgcontainer{
+    background-color: white;
+}
+#footer{
+    position: relative;
+    width: 175vh;
+    height: 75vh;
+    right: 2vh;
+    bottom: -5vh;
+}
